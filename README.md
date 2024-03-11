@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Dias</h1>
-<h3 align="center">An enthusiast of many things, mostly on PCs</h3>
+<h3 align="center">An enthusiast of many things, mostly on computers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodiasfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="diegodiasfernandes" /> </p>
 
