@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Dias</h1>
+<h1 align="center">Hey there! I'm Diego Dias</h1>
 <h3 align="center">An enthusiast of many things, mostly on computers</h3>
 
 - 📫 How to reach me **diegodiasfernandes.comp@gmail.com**
