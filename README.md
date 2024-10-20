@@ -1,5 +1,5 @@
 <h1 align="center">Hey There! I'm Diego Dias</h1>
-<h3 align="center">An enthusiast of many things, mostly on PCs</h3>
+<h3 align="center">An enthusiast of many things, mostly on IA, ML and Data Science!</h3>
 
 - 📫 How to reach me **diegodiasfernandes.comp@gmail.com**
 
